@@ -14,7 +14,7 @@ This project analyses the care-worker supply–demand gap in Taoyuan City's long
    ```
 
 ## Dataset
-Raw data files are placed in the `data/` folder, sourced from the [Taoyuan City Government Open Data Platform](https://data.tycg.gov.tw).
+Raw data files are placed in the `data/` folder, sourced from the [Taoyuan City Government Open Data Platform]([[https://data.tycg.gov.tw](https://data.gov.tw/dataset/149270)](https://data.gov.tw/dataset/149270)).
 
 | File | Description |
 |---|---|
