@@ -35,13 +35,3 @@ Raw data files are placed in the `data/` folder, sourced from the [Taoyuan City 
 | 5 | Statistical modelling & Prophet forecast (2025–2027) |
 | 8 | Conclusions & policy recommendations |
 
-## requirements.txt
-```
-pandas==2.2.0
-numpy==1.26.0
-matplotlib==3.8.2
-seaborn==0.13.2
-scikit-learn==1.4.0
-statsmodels==0.14.1
-prophet==1.1.5
-```
