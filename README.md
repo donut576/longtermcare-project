@@ -24,14 +24,3 @@ Raw data files are placed in the `data/` folder, sourced from the [Taoyuan City 
 | `LTC 2.0 Care Workers (Taiwan).csv` | National care-worker snapshot (2024) |
 | `Taoyuan LTC Institution Staff by Type.csv` | Staff breakdown by role (2013–2024) |
 
-## Notebook Structure
-| Chapter | Content |
-|---|---|
-| 0 | Environment setup |
-| 1 | Project background & research questions |
-| 2 | Data loading & cleaning |
-| 3 | Descriptive statistics & gap analysis |
-| 4 | Visualisation (trend chart, correlation heatmap) |
-| 5 | Statistical modelling & Prophet forecast (2025–2027) |
-| 8 | Conclusions & policy recommendations |
-
