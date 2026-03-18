@@ -1,7 +1,7 @@
 # Taoyuan City LTC 2.0 — Workforce Supply–Demand Gap Analysis
 
 ## Project Overview
-This project analyses the care-worker supply–demand gap in Taoyuan City's long-term care (LTC) institutions, using open data from the Taoyuan City Government.
+This project investigates the critical workforce bottleneck in Taoyuan City’s Long-Term Care (LTC) 2.0 system. By integrating Prophet time-series forecasting and a Gemini-powered RAG system, we identify a widening gap between elderly care demand and professional supply.
 
 ## Environment Setup
 1. Install dependencies:
