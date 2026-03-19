@@ -10,7 +10,7 @@ This project investigates the critical workforce bottleneck in Taoyuan City’s 
    ```
 2. Run the notebook:
    ```
-   jupyter notebook Final_112403012.ipynb
+   jupyter notebook Project_112403012.ipynb
    ```
 
 ## Dataset
